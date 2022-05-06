@@ -6,10 +6,8 @@ tag: gardening
 ---
 # Goals
 Trying to grow the following things:
-  <ul>
-  Tomatos
-  Cucumbers
-  Watermelon
-  Greens
-  </ul>
+* Tomatoes
+* Peppers
+* Cucumbers
+* Watermelon
   
